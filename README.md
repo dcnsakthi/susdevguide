@@ -1,5 +1,7 @@
 # SusDevGuide _(Sustainability Guidelines for Developers)_
 
+![image](https://github.com/dcnsakthi/susdevguide/assets/17950332/b1e7e86b-65c2-4f1b-b471-60eac2755815)
+
 _Let's play our role in constructing a sustainable future!!_
 
 Sustainability is an important aspect of development that focuses on creating solutions that meet the needs of the present without compromising the ability of future generations to meet their own needs. As a developer, you can contribute to sustainability by following these guidelines: 
