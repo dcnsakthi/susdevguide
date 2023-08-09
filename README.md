@@ -2,7 +2,7 @@
 
 _Let's play our role in constructing a sustainable future!!_
 
-Sustainability is an important aspect of development that focuses on creating solutions that meet the needs of the present without compromising the ability of future generations to meet their own needs. As a developer, you can contribute to sustainability by following these guidelines**: 
+Sustainability is an important aspect of development that focuses on creating solutions that meet the needs of the present without compromising the ability of future generations to meet their own needs. As a developer, you can contribute to sustainability by following these guidelines: 
 
 - **Energy Efficiency**:  Develop applications and systems that are energy-efficient. Optimize code to minimize resource usage, such as CPU cycles and memory, and reduce unnecessary network requests. Consider using energy-efficient hardware and technologies.
 - **Green Hosting**:  Choose environmentally friendly hosting providers that use renewable energy sources to power their data centers. Look for certifications such as LEED or ISO 14001 to ensure the provider's commitment to sustainability.
